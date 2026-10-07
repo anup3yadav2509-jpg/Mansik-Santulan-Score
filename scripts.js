@@ -2,7 +2,7 @@
   "use strict";
 
   /* ---------------- Config ---------------- */
-  const API_BASE = "http://127.0.0.1:8000";
+  const API_BASE = "https://mansik-santulan-score-jpyt.onrender.com";
   const REQUEST_TIMEOUT_MS = 20000;
   // The API doesn't return the scale of the score. Adjust if your dataset uses a different range.
   const SCORE_MIN = 0;
